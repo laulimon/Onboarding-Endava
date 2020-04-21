@@ -22,6 +22,8 @@ Discipline.bulkCreate([
             lastName: "Gonzalez",
             email: "m.gonzalez@endava.com",
             password: "123",
-            disciplineId: 2
+            disciplineId: 2,
+            isAdmin: true
         })
+            .then(console.log("Creaste al usuario Admin"))
     })
