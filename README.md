@@ -1,5 +1,18 @@
 
 ### Onboarding Endava
+Onboarging-Endava es una aplicación web que permite realizar seguimiento al proceso de ONBOARDING de los nuevos empleados de la organización.
+
+Entre las funcionalidades más importantes tenemos:
+
+- Registro de nuevos empleados.
+
+- Asignación de tareas de los procesos de onboarding y los respectivos responsables de ejecución.
+
+- Como usuario del sistema tengo una visualización eficiente de mis tareas.
+
+- Tableros de seguimiento.
+
+- Emails de notificación de asignación de tareas, de cercanía de vencimiento, reportes semanales.
 
 ### Ejecutar instalación de paquetes de Node
 Ejecutar el comando npm install tanto en el directorio del back, (/back), como del Front (/front).
@@ -28,7 +41,7 @@ Una vez que se encuentren completas todas las tablas de la base de datos, dentro
 
 
 ### Datos de contacto:
+Laura Limon            lauralimonmolina@gmail.com
 Celeste Colamarino     celestecolamarino@gmail.com
 Jose Layana            jooselayan@gmail.com 
 Ignacio Rodríguez      ignaciorodvil@gmail.com 
-Laura Limon            lauralimonmolina@gmail.com
