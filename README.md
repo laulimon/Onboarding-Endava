@@ -29,7 +29,7 @@ IMP: Modificar el estado de la db en el archivo server (/back/server.js), a true
 Ejecutar el comando npm run build en el directorio del front, (/front) para correr webpack.
 
 ### Seedeo de la DB
-Ejecutar el comando node seed.js en el directorio del back, (/back) para realizar un carga automática de disciplinas y usuario administrador.
+Ejecutar el comando node seed.js en el directorio del back, (/back) para realizar un carga automática de disciplinas, usuario administrador, nuevo ingrasante, listado de tareas disponibles, tareas para el proceso de onboarding del nuevo ingresante y los respectivos responsbles de ejecución.
 Cabe destacar que en la carpeta "back" podrán encontrar cuatro archivos más de seed, los cuales no son indispensables para el funcionamiento de la aplicación. Fueron utilizados para testear el desarrollo.
 
 ### Datos Usuario Administrador
